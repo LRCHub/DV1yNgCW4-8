@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "メルティランドナイトメア（ZLMS REMIX）（feat. Hatsune Miku）",
+  "base_artist": "ZLMS",
+  "createdAt": "2025-12-25T08:14:33.616356Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "メルティランドナイトメア(ZLMS REMIX) (feat. 初音ミク)",
+      "artist": "ZLMS",
+      "has_synced": false,
+      "path": "select/pl_01_メルティランドナイトメア(ZLMS_REMIX)_(feat._初音ミク)_ZLMS.txt"
+    }
+  ]
+}
